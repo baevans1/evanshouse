@@ -1,0 +1,17 @@
+{
+    "projectName": "evanshouse",
+    "username": "baevans_87@hotmail.com.evanshouse",
+    "id": "eb3b29f0-69cf-11e8-acec-a512004b7b55",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na59.salesforce.com",
+    "workspace": "/Users/beth.evans/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
